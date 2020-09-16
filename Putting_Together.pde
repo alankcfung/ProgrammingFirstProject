@@ -4,14 +4,14 @@
 
 size(700, 500); // width, height
 
-background(71, 194, 214);
+background(0, 215, 255);
 strokeWeight(0);
 //sun
 fill(241, 242, 0);
 ellipse(570, 160, 131, 130);
 
 //grass
-fill(71, 180, 55);
+fill(12, 191, 0);
 rect(0, 350, 700, 250);
 
 //mountains
@@ -25,7 +25,7 @@ fill(90, 90, 90);
 ellipse(242, 375, 50, 50);
 
 //robot base
-fill(39, 20, 20);
+fill(0);
 rect(200, 260, 85, 120);
 
 //robot line
@@ -45,7 +45,7 @@ ellipse(285, 160, 30, 30);
 fill(0);
 ellipse(285, 160, 7, 7);
 fill(90, 90, 90);
-ellipse(250, 150, 8, 8);
+ellipse(260, 150, 8, 8);
 ellipse(290, 135, 8, 8);
 ellipse(305, 173, 5, 5);
 
@@ -54,7 +54,7 @@ fill(224, 12, 93);
 strokeWeight(2);
 line(265, 165, 290, 60);
 line(265, 170, 340, 190);
-line(265, 165, 235, 110);
+line(265, 165, 223, 118);
 
 //neck
 fill(129, 129, 129);
